@@ -94,6 +94,7 @@ img {
 
 .logo:hover,
 .logo:focus {
+  outline: none;
   color: var(--accent-color);
 }
 
